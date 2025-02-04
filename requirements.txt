@@ -10,7 +10,7 @@ gunicorn==20.1.0; platform_system!="Windows"
 bcrypt==3.2.2
 blacksheep==1.2.7
 blacksheep-prometheus==0.1.6
-boto3==1.22.3
+boto3==1.36.13
 python-datauri==1.1.0
 email-validator==1.2.1
 imgproxy==1.0.0
